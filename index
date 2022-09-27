@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width">
 
   <title>Unique page title - My Site</title>
-  <link rel="stylesheet" href="stele.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1>Заголовок</h1>
